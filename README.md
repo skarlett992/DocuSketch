@@ -22,6 +22,5 @@
 
 ## Install: 
 0. Configure venv ([link to manual](https://docs.python.org/3/tutorial/venv.html))  
-1. Install project requirements `pip install -r /path/to/requirements.txt`
-2. Open jupyter notebook Notebook.ipynb and run it.
-3. See result in jupyter notebook and you can find all this graphs folder called “plots”.
+1. Open jupyter notebook Notebook.ipynb and run it.
+2. See result in jupyter notebook and you can find all this graphs folder called “plots”.
